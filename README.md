@@ -1,8 +1,13 @@
 # CS141-Project4-UIC
 
+Link-> https://sites.google.com/site/uiccs141/programs/prog-4-square-match
+
+Program Description-
+
 Write an ASCII text version of the classic Palm game called Vexed.  There are ad-supported online versions (shown below), as well as Android and iOS versions, though they may be dated and buggy.
 
 Vexed screen shot from https://www.mindgames.com/game/Vexed
+
 In our solution commands will be entered from the Terminal and not done graphically.  This should look like the following, and is explained more fully below:
 
 Welcome to Vexed!  
